@@ -1,0 +1,10 @@
+Inglesa Iterativa Estatica: 91282400 ns
+Divide y Venceras: 179183100 ns
+Hindu Iterativo Estatico: 347108700 ns
+Americana Iterativa Estatica: 575390500 ns
+Americana Recursiva Estatica: 575707100 ns
+Inglesa Recursiva Estatica: 796025500 ns
+Inglesa Iterativa Dinamica: 1232631100 ns
+Americana Recursiva Dinamica: 1857978700 ns
+Inglesa Recursiva Dinamica: 3735326400 ns
+Americana Iterativa Dinamica: 4321858000 ns
